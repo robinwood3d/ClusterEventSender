@@ -1,0 +1,2 @@
+# ClusterEventSender
+向nDisplay群集主机发送群集事件
